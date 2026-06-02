@@ -17,4 +17,10 @@ window.SITES = [
     description: "同样用 Claude Code / Cursor / Codex，有人 10x 提效，有人反复翻车。作者从 Andy Grove 的 TRM 任务成熟度、Kahneman 的锚定效应、Goldratt 的瓶颈理论（TOC）、苏格拉底式提问、双循环管理等经典管理学框架出发，拆解如何像管理者一样「管」Agent：分档任务、破锚定、找瓶颈、持续改进。",
     tags: ["AI Agent", "管理学", "Claude Code", "Cursor", "效率"],
   },
+  {
+    title: "DeepSeek 出了个终端编程 Agent，刚开源就 8.1k Star，真正的壁垒不是 AI，是会计",
+    url: "https://mp.weixin.qq.com/s/DVTs_pkZgo0IqyMsjvHO2g",
+    description: "深度拆解 Reasonix 的架构：三根支柱——缓存优先循环（上下文分区 + 并行工具派发）、四阶段工具调用修复（flatten/scavenge/truncation/storm）、成本控制会计系统。绑定 DeepSeek 前缀缓存把 API 费用压到极限，4 亿 token 仅 $12。",
+    tags: ["DeepSeek", "Reasonix", "AI Agent", "编程工具", "架构"],
+  },
 ];
