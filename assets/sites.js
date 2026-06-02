@@ -11,4 +11,10 @@ window.SITES = [
     description: "按前端工程价值分档（夯、顶级、人上人、NPC/人机、拉完了/拉爆了），锐评 20 个前端 AI Agent Skill —— 从 React/Next.js 性能优化到 Svelte/Vue/Angular 框架规范，再到动画、调试、TypeScript 等，告诉你哪些 Skill 真有用、哪些装多了反而不强。",
     tags: ["前端", "AI Agent", "Skill", "React", "Vue", "工具评测"],
   },
+  {
+    title: "Agent 越用越翻车，怎么破局？答案藏在经典管理学里",
+    url: "https://mp.weixin.qq.com/s/N1WgUN8ddXrw0p0o5IiykA",
+    description: "同样用 Claude Code / Cursor / Codex，有人 10x 提效，有人反复翻车。作者从 Andy Grove 的 TRM 任务成熟度、Kahneman 的锚定效应、Goldratt 的瓶颈理论（TOC）、苏格拉底式提问、双循环管理等经典管理学框架出发，拆解如何像管理者一样「管」Agent：分档任务、破锚定、找瓶颈、持续改进。",
+    tags: ["AI Agent", "管理学", "Claude Code", "Cursor", "效率"],
+  },
 ];
