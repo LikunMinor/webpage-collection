@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>个人网页收集站</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">WEBPAGE / COLLECTION</p>
+          <h1 id="page-title">个人网页收集站</h1>
+          <p class="hero-copy">用一个高速、可搜索、可按标签筛选的静态首页，集中管理长期有用的网站链接。</p>
+        </div>
+        <div class="stats" aria-label="收藏统计">
+          <div>
+            <span class="stat-label">收录站点</span>
+            <span class="stat-value" data-total-sites>0</span>
+          </div>
+          <div>
+            <span class="stat-label">标签总数</span>
+            <span class="stat-value" data-total-tags>0</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="筛选工具">
+        <label class="field">
+          搜索
+          <input class="search-input" type="search" placeholder="搜索标题或描述" data-search>
+        </label>
+        <label class="field">
+          每页展示
+          <select class="select-input" data-per-page>
+            <option value="10">10</option>
+            <option value="20" selected>20</option>
+            <option value="50">50</option>
+            <option value="all">全部</option>
+          </select>
+        </label>
+        <button class="clear-button" type="button" data-clear>清除筛选</button>
+      </section>
+
+      <section class="filter-row" aria-label="标签筛选">
+        <div class="tag-cloud tag-cloud-collapsed" data-tag-cloud></div>
+        <button class="tag-toggle" type="button" data-tag-toggle aria-expanded="false">展开标签</button>
+        <div class="result-count" data-count></div>
+      </section>
+
+      <section class="site-list" data-list aria-label="网页收藏列表"></section>
+      <nav class="pagination" data-pagination aria-label="分页"></nav>
+    </main>
+
+    <script src="assets/app-logic.js"></script>
+    <script src="assets/sites.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
