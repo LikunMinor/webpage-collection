@@ -23,4 +23,10 @@ window.SITES = [
     description: "深度拆解 Reasonix 的架构：三根支柱——缓存优先循环（上下文分区 + 并行工具派发）、四阶段工具调用修复（flatten/scavenge/truncation/storm）、成本控制会计系统。绑定 DeepSeek 前缀缓存把 API 费用压到极限，4 亿 token 仅 $12。",
     tags: ["DeepSeek", "Reasonix", "AI Agent", "编程工具", "架构"],
   },
+  {
+    title: "不知道 AI Agent 能干嘛？看看这 100+ 个落地应用合集",
+    url: "https://mp.weixin.qq.com/s/4zs4BMTxcMEXKeTMrh6BRQ",
+    description: "Google Cloud 产品经理 Shubham Saboo 维护的 awesome-llm-apps（111k+ Star），收录 100+ 可运行 AI Agent 模板，覆盖旅行、医疗、金融、游戏、语音等 13 大场景。从单文件入门 Agent 到多智能体协作团队，附安装运行教程。",
+    tags: ["AI Agent", "开源项目", "GitHub", "入门", "工具合集"],
+  },
 ];
