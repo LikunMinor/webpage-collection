@@ -29,4 +29,10 @@ window.SITES = [
     description: "Google Cloud 产品经理 Shubham Saboo 维护的 awesome-llm-apps（111k+ Star），收录 100+ 可运行 AI Agent 模板，覆盖旅行、医疗、金融、游戏、语音等 13 大场景。从单文件入门 Agent 到多智能体协作团队，附安装运行教程。",
     tags: ["AI Agent", "开源项目", "GitHub", "入门", "工具合集"],
   },
+  {
+    title: "为什么越来越多的大厂抛弃MCP，转向CLI？",
+    url: "https://juejin.cn/post/7630841596041478171",
+    description: "Perplexity CTO 公开弃用、YC CEO 直言「MCP sucks」、飞书/钉钉/企微转向 CLI——深度剖析 MCP 四大致命缺陷（上下文臃肿 143K token、架构复杂、安全隐患、被动工具），对比 CLI 的渐进式发现、--help 自文档化、可审计、管道组合等优势。",
+    tags: ["MCP", "CLI", "AI Agent", "架构", "协议"],
+  },
 ];
