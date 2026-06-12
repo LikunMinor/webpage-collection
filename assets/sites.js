@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "RAG学习笔记-面试看这篇就够了",
+    url: "https://mp.weixin.qq.com/s/FGjMqBlhy_fPjEs1dY5Umg",
+    description: "RAG 全流程详解：文档解析（PDF 多栏/MinerU/Marker/OCR）→ 数据清洗 → 五种分块策略（Token/递归/结构/语义/Meta-Chunking）→ Embedding 原理 → 向量索引（IVF/HNSW）→ 检索召回 → 重排序 → 上下文拼接 → 大模型生成。覆盖面试高频考点。",
+    tags: ["RAG", "LLM", "Embedding", "向量检索", "面试"],
+  },
+  {
     title: "为什么越来越多的大厂抛弃MCP，转向CLI？",
     url: "https://juejin.cn/post/7630841596041478171",
     description: "Perplexity CTO 公开弃用、YC CEO 直言「MCP sucks」、飞书/钉钉/企微转向 CLI——深度剖析 MCP 四大致命缺陷（上下文臃肿 143K token、架构复杂、安全隐患、被动工具），对比 CLI 的渐进式发现、--help 自文档化、可审计、管道组合等优势。",
