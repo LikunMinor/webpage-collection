@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "从 Prompt Engineering 到 Loop Engineering：AI 编程正在进入「闭环工程」时代",
+    url: "https://blog.csdn.net/hyg0811/article/details/162008541",
+    description: "Loop Engineering 不只是让 AI 多执行几轮，而是把任务发现、执行、验证、记忆、重试和人工介入设计成一个完整闭环。从 Prompt Engineering 的线性思维，升级到闭环工程的自进化系统。",
+    tags: ["AI Agent", "Loop Engineering", "Prompt Engineering", "闭环"],
+  },
+  {
     title: "RAG学习笔记-面试看这篇就够了",
     url: "https://mp.weixin.qq.com/s/FGjMqBlhy_fPjEs1dY5Umg",
     description: "RAG 全流程详解：文档解析（PDF 多栏/MinerU/Marker/OCR）→ 数据清洗 → 五种分块策略（Token/递归/结构/语义/Meta-Chunking）→ Embedding 原理 → 向量索引（IVF/HNSW）→ 检索召回 → 重排序 → 上下文拼接 → 大模型生成。覆盖面试高频考点。",
