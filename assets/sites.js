@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "AI写的前端太丑？这22k星的开源技能库让Claude Code秒变设计大师",
+    url: "https://mp.weixin.qq.com/s/eW4gCVAs5mb8z33vtt6Cqw",
+    description: "Leon Lin 的 taste-skill（21.9k stars）—— 一套开源设计规则库，给 Claude Code/Cursor/Codex 装「审美系统」。VARIANCE/MOTION/DENSITY 三旋钮调风格，含 image-to-code、redesign、minimalist 等 10 个子技能，一行 npx 命令安装。",
+    tags: ["前端", "设计", "Skill", "Claude Code", "开源"],
+  },
+  {
     title: "从 Prompt Engineering 到 Loop Engineering：AI 编程正在进入「闭环工程」时代",
     url: "https://blog.csdn.net/hyg0811/article/details/162008541",
     description: "Loop Engineering 不只是让 AI 多执行几轮，而是把任务发现、执行、验证、记忆、重试和人工介入设计成一个完整闭环。从 Prompt Engineering 的线性思维，升级到闭环工程的自进化系统。",
