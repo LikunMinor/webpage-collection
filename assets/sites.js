@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "美国手机号推荐：Ultra Mobile 紫卡 $3/月，ChatGPT/Claude/Wise 实测可收",
+    url: "https://kannetflix.com/esim/ultra-mobile/",
+    description: "看奈飞 Leo 主笔，Ultra Mobile 紫卡 $3/月美国实体运营商号码（非 VoIP），WiFi Calling 下中国免费收短信，实测通过 ChatGPT、Claude、Wise、PayPal、Chase、Stripe 等验证。含购买、激活、避坑、封号风险全攻略。",
+    tags: ["美国手机号", "Ultra Mobile", "eSIM", "验证码", "ChatGPT"],
+  },
+  {
     title: "AI写的前端太丑？这22k星的开源技能库让Claude Code秒变设计大师",
     url: "https://mp.weixin.qq.com/s/eW4gCVAs5mb8z33vtt6Cqw",
     description: "Leon Lin 的 taste-skill（21.9k stars）—— 一套开源设计规则库，给 Claude Code/Cursor/Codex 装「审美系统」。VARIANCE/MOTION/DENSITY 三旋钮调风格，含 image-to-code、redesign、minimalist 等 10 个子技能，一行 npx 命令安装。",
