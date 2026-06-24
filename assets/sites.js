@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "Claude AI IP 检测 - IP纯净度与风险查询 | Net.Coffee",
+    url: "https://ip.net.coffee/claude/",
+    description: "一站式 Claude IP 风险查询工具：检测 IP 纯净度、信任评分、住宅/机房属性、Tor 与高风险识别，展示默认出口 IP 和 Cloudflare 出口 IP 分流情况。Claude 封号预防必备。",
+    tags: ["Claude", "IP检测", "工具", "网络", "风险查询"],
+  },
+  {
     title: "美国手机号推荐：Ultra Mobile 紫卡 $3/月，ChatGPT/Claude/Wise 实测可收",
     url: "https://kannetflix.com/esim/ultra-mobile/",
     description: "看奈飞 Leo 主笔，Ultra Mobile 紫卡 $3/月美国实体运营商号码（非 VoIP），WiFi Calling 下中国免费收短信，实测通过 ChatGPT、Claude、Wise、PayPal、Chase、Stripe 等验证。含购买、激活、避坑、封号风险全攻略。",
