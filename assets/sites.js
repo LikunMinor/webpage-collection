@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "终于有人把 71 套顶级产品设计规范，做成了一个 Skills",
+    url: "https://mp.weixin.qq.com/s/zGrv3ft-WhDu0NZ_Bj_ViA",
+    description: "Design MD Collection：一个 Skill 整合 71 套产品级视觉系统（Apple、Stripe、Linear、Vercel、Airbnb、Claude、Figma、Notion 等），AI 编程时指定风格即可产出高质量 UI。适合独立开发者、SaaS、AI 产品官网设计。",
+    tags: ["设计", "Skill", "UI", "产品设计", "前端"],
+  },
+  {
     title: "Claude AI IP 检测 - IP纯净度与风险查询 | Net.Coffee",
     url: "https://ip.net.coffee/claude/",
     description: "一站式 Claude IP 风险查询工具：检测 IP 纯净度、信任评分、住宅/机房属性、Tor 与高风险识别，展示默认出口 IP 和 Cloudflare 出口 IP 分流情况。Claude 封号预防必备。",
