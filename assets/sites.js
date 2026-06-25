@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "AI 科研 Skill 合集：架构图/文献检索/单细胞分析/论文润色等",
+    url: "https://typan.dftianyi.com/s/J9cz",
+    description: "天意云分享的科研 AI Skill 合集，含架构图、脂质组学、调研、文献检索、单细胞分析、空间转录组、论文润色等 7 个研究方向的专业 Skill，面向生物信息学和科研场景。",
+    tags: ["AI Skill", "科研", "生信", "文献", "论文"],
+  },
+  {
     title: "终于有人把 71 套顶级产品设计规范，做成了一个 Skills",
     url: "https://mp.weixin.qq.com/s/zGrv3ft-WhDu0NZ_Bj_ViA",
     description: "Design MD Collection：一个 Skill 整合 71 套产品级视觉系统（Apple、Stripe、Linear、Vercel、Airbnb、Claude、Figma、Notion 等），AI 编程时指定风格即可产出高质量 UI。适合独立开发者、SaaS、AI 产品官网设计。",
