@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "Convertio — 在线文件格式转换器（视频/音频/文档/图像/OCR）",
+    url: "https://convertio.co/zh/",
+    description: "免费在线文件转换工具，支持视频、音频、文档、图像等 300+ 格式互转，含 OCR 文字识别、压缩、GIF 编辑等功能。评分 4.6（3100万+投票），无需安装。",
+    tags: ["工具", "文件转换", "在线工具", "OCR", "Convertio"],
+  },
+  {
     title: "AI 科研 Skill 合集：架构图/文献检索/单细胞分析/论文润色等",
     url: "https://typan.dftianyi.com/s/J9cz",
     description: "天意云分享的科研 AI Skill 合集，含架构图、脂质组学、调研、文献检索、单细胞分析、空间转录组、论文润色等 7 个研究方向的专业 Skill，面向生物信息学和科研场景。",
