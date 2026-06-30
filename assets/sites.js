@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "5个产品经理必备 AI Skills：安装、使用、仓库介绍",
+    url: "https://mp.weixin.qq.com/s/ZUEDt3n38atIFMYEYg9IiQ",
+    description: "老王霸 PM 梳理 GitHub 上 5 个产品经理 Agent Skill 仓库：pm-skills（20k+ 星，68 Skill + 42 工作流）、Product-Manager-Skills（52 Skill，覆盖 Moore/Porter/Amazon 等方法论）等。含安装方式、适用场景、PRD 模板等。",
+    tags: ["产品经理", "AI Skill", "PRD", "工作流", "GitHub"],
+  },
+  {
     title: "Claude Code 配置完全指南：CLAUDE.md / Skills / Rules / Hooks 全解析",
     url: "https://mp.weixin.qq.com/s/tCsmLdYPooAXPMGtWf-t_Q",
     description: "程序员鱼皮解读 Anthropic 官方博文《Steering Claude Code》，7 种调教方式深度对比：CLAUDE.md（事实 vs 流程）、Rules 路径作用域、Skills 渐进式加载、Subagents 隔离上下文、Hooks、Output Styles。含 token 优化策略和避坑指南。",
