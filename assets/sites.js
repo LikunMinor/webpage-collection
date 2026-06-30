@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "达尔文.skill 2.0 — 像训练模型一样优化你的 Agent Skills",
+    url: "https://github.com/alchaincyf/darwin-skill",
+    description: "受 Karpathy autoresearch 启发，将自主实验循环用于 Skill 优化。v2.0 吸收微软 SkillLens/SkillOpt 论文，9 维评分标准、validation-gated 验证、Human-in-the-Loop 三层守关。已获微软官方集成。npx skills add alchaincyf/darwin-skill",
+    tags: ["AI Skill", "Agent", "优化", "微软SkillOpt", "开源"],
+  },
+  {
     title: "5个产品经理必备 AI Skills：安装、使用、仓库介绍",
     url: "https://mp.weixin.qq.com/s/ZUEDt3n38atIFMYEYg9IiQ",
     description: "老王霸 PM 梳理 GitHub 上 5 个产品经理 Agent Skill 仓库：pm-skills（20k+ 星，68 Skill + 42 工作流）、Product-Manager-Skills（52 Skill，覆盖 Moore/Porter/Amazon 等方法论）等。含安装方式、适用场景、PRD 模板等。",
