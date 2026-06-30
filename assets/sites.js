@@ -1,5 +1,11 @@
 window.SITES = [
   {
+    title: "Claude Code 配置完全指南：CLAUDE.md / Skills / Rules / Hooks 全解析",
+    url: "https://mp.weixin.qq.com/s/tCsmLdYPooAXPMGtWf-t_Q",
+    description: "程序员鱼皮解读 Anthropic 官方博文《Steering Claude Code》，7 种调教方式深度对比：CLAUDE.md（事实 vs 流程）、Rules 路径作用域、Skills 渐进式加载、Subagents 隔离上下文、Hooks、Output Styles。含 token 优化策略和避坑指南。",
+    tags: ["Claude Code", "AI编程", "配置", "Skill", "效率"],
+  },
+  {
     title: "Convertio — 在线文件格式转换器（视频/音频/文档/图像/OCR）",
     url: "https://convertio.co/zh/",
     description: "免费在线文件转换工具，支持视频、音频、文档、图像等 300+ 格式互转，含 OCR 文字识别、压缩、GIF 编辑等功能。评分 4.6（3100万+投票），无需安装。",
